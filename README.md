@@ -21,5 +21,6 @@ Our team has strong IT backgrounds and are able to support a fast growing team.
 We invented a fabulous tool for managing the team and work.
 The team is flat. Everybody is self-driving by the goals. Everyone is the master and work for themself and others.
 Everyone is free to create task, work and idea and share, assign and reassgin to others.
+Characteristics: Virtual team, self-driven, self-management, experience-gaining.
 Team and work management.
 
