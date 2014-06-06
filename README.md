@@ -32,9 +32,9 @@ Characteristics: Virtual team, self-driven, self-management, experience-gaining.
 Team and work management.
 6. What can I get. Benifits, perks. 
 Not only experience but hands on skills.
-1. get skills to suit yourself in a fast growing team.
-2. entrreprenureship and principles useful for your startup ideas.
-3. first access to our mentor, senior pool 
-4. access to our infrastrures.
-5. learn to communication with engineers, business, finance,, markets, sales.
+ get skills to suit yourself in a fast growing team.
+entrreprenureship and principles useful for your startup ideas.
+first access to our mentor, senior pool 
+access to our infrastrures.
+learn to communication with engineers, business, finance,, markets, sales.
 
